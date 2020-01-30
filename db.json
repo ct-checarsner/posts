@@ -265,62 +265,6 @@
                                 "color": "info"
                         }, 
                         "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "Investing Secrets From Billionaires Who Made a Fortune in the Markets", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 27, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "The 21 Most Expensive Things of All Time", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 67, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "8 Moms Who Built Amazing Careers After Taking Time Off for Kids", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 100, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "15 Things Not to Do in Retirement", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 39, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
                 }
     
         ]   
