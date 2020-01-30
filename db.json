@@ -2,7 +2,11 @@
         "posts": [
                 {
                         "title": "40 Cities With a Housing Bubble That’s About To Burst", 
-                        "points": 8, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 80, 
                         "status": {
                                 "message": "On Target", 
@@ -12,7 +16,11 @@
                 },
                 {
                         "title": "These 13 Women Battled Workplace Discrimination — and Won", 
-                        "points": 5, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 12, 
                         "status": {
                                 "message": "On Target", 
@@ -22,7 +30,11 @@
                 },
                 {
                         "title": "Oprah and 24 More Celebrities With Business Empires", 
-                        "points": 5, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 65, 
                         "status": {
                                 "message": "On Target", 
@@ -32,7 +44,11 @@
                 },
                 {
                         "title": "Most and Least Expensive States to Build a Home", 
-                        "points": 1, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 100, 
                         "status": {
                                 "message": "On Target", 
@@ -42,7 +58,11 @@
                 },
                 {
                         "title": "20 Common Places to Lose Money", 
-                        "points": 3, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 68, 
                         "status": {
                                 "message": "On Target", 
@@ -52,7 +72,11 @@
                 },
                 {
                         "title": "Most Affordable Places to Retire Near the Beach", 
-                        "points": 8, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 33, 
                         "status": {
                                 "message": "On Target", 
@@ -62,7 +86,11 @@
                 },
                 {
                         "title": "How To Use Your Credit Cards To Make Money — and To Save Money, Too", 
-                        "points": 7, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 64, 
                         "status": {
                                 "message": "On Target", 
@@ -72,7 +100,11 @@
                 },
                 {
                         "title": "31 Surprising Facts About Retiring You Probably Didn’t Know", 
-                        "points": 2, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 79, 
                         "status": {
                                 "message": "On Target", 
@@ -82,7 +114,11 @@
                 },
                 {
                         "title": "25 Hot Jobs That Pay More Than $100,000 a Year", 
-                        "points": 2, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 12, 
                         "status": {
                                 "message": "On Target", 
@@ -92,7 +128,11 @@
                 },
                 {
                         "title": "20 Billionaire American Dynasties and How They Made Their Money", 
-                        "points": 9, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 55, 
                         "status": {
                                 "message": "On Target", 
@@ -102,7 +142,11 @@
                 },
                 {
                         "title": "30 Legitimate Ways to Make Some Quick Cash This Year", 
-                        "points": 3, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 100, 
                         "status": {
                                 "message": "On Target", 
@@ -112,7 +156,11 @@
                 },
                 {
                         "title": "The Wildest Things Your Taxes Are Paying For", 
-                        "points": 7, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 81, 
                         "status": {
                                 "message": "On Target", 
@@ -122,7 +170,11 @@
                 },
                 {
                         "title": "Cost of Owning a Car for the First Year in Every State", 
-                        "points": 6, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 99, 
                         "status": {
                                 "message": "On Target", 
@@ -132,7 +184,11 @@
                 },
                 {
                         "title": "8 Minority-Owned Businesses Making Waves in America", 
-                        "points": 1, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 56, 
                         "status": {
                                 "message": "On Target", 
@@ -142,7 +198,11 @@
                 },
                 {
                         "title": "You Don’t Have To Be a Millionaire To Retire in These Places", 
-                        "points": 3, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 44, 
                         "status": {
                                 "message": "On Target", 
@@ -152,7 +212,11 @@
                 },
                 {
                         "title": "6 Startups That Let You Buy and Sell Your House Online", 
-                        "points": 4, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 74, 
                         "status": {
                                 "message": "On Target", 
@@ -162,7 +226,11 @@
                 },
                 {
                         "title": "Skip Silicon Valley — You Can Find High-Paying Tech Jobs in These 20 Cities", 
-                        "points": 8, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 90, 
                         "status": {
                                 "message": "On Target", 
@@ -172,7 +240,11 @@
                 },
                 {
                         "title": "11 Signs Your Retirement Is Going to Be More Expensive Than You Thought", 
-                        "points": 9, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 42, 
                         "status": {
                                 "message": "On Target", 
@@ -182,7 +254,11 @@
                 },
                 {
                         "title": "These Southern Hidden Gem Cities Are Perfect for Retirees", 
-                        "points": 4, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 44, 
                         "status": {
                                 "message": "On Target", 
@@ -192,7 +268,11 @@
                 },
                 {
                         "title": "Investing Secrets From Billionaires Who Made a Fortune in the Markets", 
-                        "points": 7, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 27, 
                         "status": {
                                 "message": "On Target", 
@@ -202,7 +282,11 @@
                 },
                 {
                         "title": "The 21 Most Expensive Things of All Time", 
-                        "points": 7, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 67, 
                         "status": {
                                 "message": "On Target", 
@@ -212,7 +296,11 @@
                 },
                 {
                         "title": "8 Moms Who Built Amazing Careers After Taking Time Off for Kids", 
-                        "points": 5, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 100, 
                         "status": {
                                 "message": "On Target", 
@@ -222,7 +310,11 @@
                 },
                 {
                         "title": "15 Things Not to Do in Retirement", 
-                        "points": 4, 
+                        "workflow": {
+                                "name" : "Alpha",
+                                "step" : 4
+                        },
+                        "assignee": "Che Carsner",
                         "progress": 39, 
                         "status": {
                                 "message": "On Target", 
