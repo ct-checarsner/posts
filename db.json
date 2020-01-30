@@ -223,48 +223,6 @@
                                 "color": "info"
                         }, 
                         "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "Skip Silicon Valley — You Can Find High-Paying Tech Jobs in These 20 Cities", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 90, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "11 Signs Your Retirement Is Going to Be More Expensive Than You Thought", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 42, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
-                },
-                {
-                        "title": "These Southern Hidden Gem Cities Are Perfect for Retirees", 
-                        "workflow": {
-                                "name" : "Alpha",
-                                "step" : 4
-                        },
-                        "assignee": "Che Carsner",
-                        "progress": 44, 
-                        "status": {
-                                "message": "On Target", 
-                                "color": "info"
-                        }, 
-                        "publish_date": "10/15/2020"
                 }
     
         ]   
