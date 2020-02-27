@@ -3,7 +3,8 @@
       {
          "title":"40 Cities With a Housing Bubble That’s About To Burst",
          "workflow":{
-            "name":"seoShort"
+            "name":"seoShort",
+            "steps_complete": [1,1,1,0]
          },
          "assignee":"Che Carsner",
          "publish_date":"10/15/2020"
@@ -11,7 +12,8 @@
       {
          "title":"These 13 Women Battled Workplace Discrimination — and Won",
          "workflow":{
-            "name":"seoSkyscrapper"
+            "name":"seoSkyscrapper",
+            "steps_complete": [1,1,0,0,0]
          },
          "assignee":"Belsien Thomas",
          "publish_date":"10/15/2020"
@@ -19,7 +21,8 @@
       {
          "title":"Oprah and 24 More Celebrities With Business Empires",
          "workflow":{
-            "name":"ssStudy"
+            "name":"ssStudy",
+            "steps_complete": [1,0,0,0,0]
          },
          "assignee":"Becky Hollada",
          "publish_date":"10/15/2020"
@@ -27,7 +30,8 @@
       {
          "title":"Most and Least Expensive States to Build a Home",
          "workflow":{
-            "name":"ssSurvey"
+            "name":"ssSurvey",
+            "steps_complete": [1,1,1,1,0]
          },
          "assignee":"Che Carsner",
          "publish_date":"10/15/2020"
@@ -35,7 +39,8 @@
       {
          "title":"20 Common Places to Lose Money",
          "workflow":{
-            "name":"ssBestOfStudy"
+            "name":"ssBestOfStudy",
+            "steps_complete": [0,0,0,0,0]
          },
          "assignee":"Belsien Thomas",
          "publish_date":"10/15/2020"
@@ -43,7 +48,8 @@
       {
          "title":"Most Affordable Places to Retire Near the Beach",
          "workflow":{
-            "name":"ssStateByStateStudy"
+            "name":"ssStateByStateStudy",
+            "steps_complete": [1,1,1,1,1]
          },
          "assignee":"Becky Hollada",
          "publish_date":"10/15/2020"
@@ -51,7 +57,8 @@
       {
          "title":"How To Use Your Credit Cards To Make Money — and To Save Money, Too",
          "workflow":{
-            "name":"ssCityStudy"
+            "name":"ssCityStudy",
+            "steps_complete": [1,0,0,0,0]
          },
          "assignee":"Che Carsner",
          "publish_date":"10/15/2020"
@@ -59,7 +66,8 @@
       {
          "title":"31 Surprising Facts About Retiring You Probably Didn’t Know",
          "workflow":{
-            "name":"ssNoResearchStudy"
+            "name":"ssNoResearchStudy",
+            "steps_complete": [1,0,0,0]
          },
          "assignee":"Belsien Thomas",
          "publish_date":"10/15/2020"
@@ -67,7 +75,8 @@
       {
          "title":"25 Hot Jobs That Pay More Than $100,000 a Year",
          "workflow":{
-            "name":"partnerGallery"
+            "name":"partnerGallery",
+            "steps_complete": [1,1,0,0]
          },
          "assignee":"Becky Hollada",
          "publish_date":"10/15/2020"
@@ -75,7 +84,8 @@
       {
          "title":"20 Billionaire American Dynasties and How They Made Their Money",
          "workflow":{
-            "name":"partnerOutreach"
+            "name":"partnerOutreach",
+            "steps_complete": [1,1,0,0,0]
          },
          "assignee":"Che Carsner",
          "publish_date":"10/15/2020"
@@ -84,6 +94,7 @@
          "title":"30 Legitimate Ways to Make Some Quick Cash This Year",
          "workflow":{
             "name":"commerceContentStandard"
+            "steps_complete": [1,1,0,0,0]
          },
          "assignee":"Belsien Thomas",
          "publish_date":"10/15/2020"
@@ -91,7 +102,8 @@
       {
          "title":"The Wildest Things Your Taxes Are Paying For",
          "workflow":{
-            "name":"seoShort"
+            "name":"seoShort",
+            "steps_complete": [1,1,1,0]
          },
          "assignee":"Becky Hollada",
          "publish_date":"10/15/2020"
@@ -99,7 +111,8 @@
       {
          "title":"Cost of Owning a Car for the First Year in Every State",
          "workflow":{
-            "name":"seoSkyscrapper"
+            "name":"seoSkyscrapper",
+            "steps_complete": [1,1,0,0,0]
          },
          "assignee":"Che Carsner",
          "publish_date":"10/15/2020"
@@ -107,7 +120,8 @@
       {
          "title":"8 Minority-Owned Businesses Making Waves in America",
          "workflow":{
-            "name":"ssStudy"
+            "name":"ssStudy",
+            "steps_complete": [1,0,0,0,0]
          },
          "assignee":"Belsien Thomas",
          "publish_date":"10/15/2020"
@@ -115,7 +129,8 @@
       {
          "title":"You Don’t Have To Be a Millionaire To Retire in These Places",
          "workflow":{
-            "name":"ssSurvey"
+            "name":"ssSurvey",
+            "steps_complete": [1,1,1,1,0]
          },
          "assignee":"Becky Hollada",
          "publish_date":"10/15/2020"
@@ -123,7 +138,8 @@
       {
          "title":"6 Startups That Let You Buy and Sell Your House Online",
          "workflow":{
-            "name":"ssBestOfStudy"
+            "name":"ssBestOfStudy",
+            "steps_complete": [0,0,0,0,0]
          },
          "assignee":"Che Carsner",
          "publish_date":"10/15/2020"
