@@ -4,7 +4,7 @@
 			"workflow": {
 				"name": "seoShort",
 				"steps_complete": [1, 1, 1, 0],
-				"steps": null
+				"steps": []
 			},
 			"assignee": "Che Carsner",
 			"publish_date": "10/15/2020"
